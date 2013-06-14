@@ -9,7 +9,6 @@ Drag your song into the little app and then it will tell you if you have the son
 and what playlists its in.
 
 ###Todo
-- [ ] a task list item
 - [ ] Needs app icon 
 - [ ] Needs to be able to click on playlist and jump to song 
 - [ ] Possibly add functionality to find duplicates 
