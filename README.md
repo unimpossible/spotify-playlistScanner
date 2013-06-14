@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 boilerplate-app
 ===============
 
@@ -36,3 +37,9 @@ Helpful links:
 -  [Spotify Developer site](https://developer.spotify.com/)
 -  [Spotify Developer Guidelines](http://developer.spotify.com/technologies/apps/guidelines/developer/)
 -  [Spotify Apps API](https://developer.spotify.com/technologies/apps/)
+=======
+spotify-playlistScanner
+=======================
+
+Do I have that song? A quick way to find if a song is in your playlists already.
+>>>>>>> a9ed09e39ed3f8a45902e8323e39a49d471992ac
